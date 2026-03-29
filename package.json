@@ -1,0 +1,13 @@
+{
+  "name": "dcchecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DCchecker.py",
+  "scripts": {
+    "start": "python DCchecker.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
